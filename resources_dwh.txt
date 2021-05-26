@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/44461992/redshift-convert-dates-to-unix-timestamps
+https://knowledge.udacity.com/questions/58152
+https://docs.aws.amazon.com/redshift/latest/dg/r_EXTRACT_function.html
+dbeaver software to get diagrame from redshift cluster
